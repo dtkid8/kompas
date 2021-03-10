@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kompas</string>
+    <string name="location">Dhaka, BD</string>
+    <string name="update">Updated at: 18/11/2020 02:44 PM</string>
+    <string name="condition">Haze</string>
+    <string name="temperature">27°C</string>
+    <string name="minimalTemperature">Min Temp: 27°C</string>
+    <string name="maximalTemperature">Max Temp: 27°C</string>
+</resources>
